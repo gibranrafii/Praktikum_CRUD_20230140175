@@ -182,6 +182,10 @@ DELETE /api/users/550e8400-e29b-41d4-a716-446655440000
 
 ---
 
+## Tampilan Web
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/82b4c096-9207-460d-a3e7-7c44d688954a" />
+
+
 ## Ringkasan Endpoint
 
 | Method | Endpoint | Deskripsi |
